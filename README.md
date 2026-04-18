@@ -150,7 +150,7 @@ The model is deployed using Streamlit for interactive predictions.
 
 Live App
 
-(Add your Streamlit link here)
+https://electricityconsumption-predictionlinearregressionml-hxibextfem.streamlit.app/
 
 
 Tech Stack
